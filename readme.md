@@ -1,1 +1,1 @@
-![Logo do projeto](./src/imgLogo/logo.jpg)
+![Logo do projeto](./src/imgLogo/logo.png)
